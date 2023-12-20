@@ -13,9 +13,10 @@ A big topic in the field of based learning and image processing, the bounding bo
   <br><li>Geographical analysis: Bounding boxes can be used to perform a variety of geographical analyses. They can be used to calculate the area, perimeter, or centroid of a specific region. Additionally, bounding boxes can be used for spatial clustering, density analysis, or even estimating population within a defined boundary.</li>
   <br><li>Data visualization: Bounding boxes can be used to visualize the extent of a dataset or a specific geographical region. By overlaying a bounding box on a map, you can provide users with a better understanding of the geographic scope of the data being displayed.
 </li>
-</ul>
+
   <br><li>Route planning: Bounding boxes can be used in route planning applications to define the start and end points or waypoints of a journey. By specifying a bounding box, you can ensure that the selected 
   route remains within the desired area and prevent unnecessary detours.
+  </ul>
 
   Bounding boxes have a wide range of potential applications across various fields. Here are some of the common applications: 
   <br><li> Augmented Reality (AR): Bounding boxes play a role in AR applications by accurately aligning virtual objects with the real world. By defining bounding boxes around physical objects or surfaces, AR 
