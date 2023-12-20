@@ -1,7 +1,8 @@
 # Bounding-Boxes
 **<br><h1 align="center"> Creating Bounding Boxes on Campus Map </h1>**
 
-![WhatsApp Görsel 2023-06-17 saat 20 48 47](https://github.com/GMT-352/final-project-groups-x2/assets/85685449/0b5eae0c-d5e7-4279-ad37-d419b83707c1)
+![Ekran görüntüsü 2023-12-20 191012](https://github.com/serefyigityuksel/Bounding-Boxes/assets/95695695/4aeadcd6-7ebd-4aab-87cb-6a3e4e0c1946)
+
 
 A big topic in the field of based learning and image processing, the bounding box is a technique used in tasks such as object result and object recognition. Bounding box refers to a box that surrounds and delimits an object. This box is used to identify the spray and the receptors. Bounding boxes, wide spacing, are used to cross each other in images or videos where they are detected. Bounding boxes are usually represented as the coordinates of four points (x_min, y_min, x_max, y_max). x_min and y_min represent the coordinates of the upper left corner of the box, and x_max and y_max represent the coordinates of the lower right corner of the box. Thanks to these coordinates, the location and size of the place are determined.
 
